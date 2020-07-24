@@ -1,6 +1,6 @@
 # Haunted-House-Game
 
-game.exe filepath --> Haunted-House-Game/Haunted House Game/Game Launcher/
+game.exe filepath --> Haunted-House-Game/Haunted House Game/Game Launcher/John Lemon's Haunted Jaunt.exe
 
 Use the arrow keys to move
 
