@@ -1,6 +1,8 @@
 # Haunted-House-Game
 
-game.exe filepath --> Haunted-House-Game/Haunted House Game/Game Launcher/John Lemon's Haunted Jaunt.exe
+game.exe filepath --> Haunted House Game/Game Launcher/John Lemon's Haunted Jaunt.exe
+
+Code is located in Haunted House Game/Assets/Scripts
 
 Use the arrow keys to move
 
