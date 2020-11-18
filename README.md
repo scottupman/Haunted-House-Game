@@ -1,4 +1,5 @@
 # Haunted-House-Game
+Download the repository to your desktop
 
 game.exe filepath --> Haunted House Game/Game Launcher/John Lemon's Haunted Jaunt.exe
 
